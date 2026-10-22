@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🎮 Hi, I'm Mai. Have a nice day!
 
-<!--
-**Mirai-desv/Mirai-desv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **IT Engineering – Japanese Program (ITE6)** student at **Hanoi University of Science and Technology (HUST)**.
 
-Here are some ideas to get you started:
+🎮 Mainly focused on **game development & indie games**. Currently working on a **2D casual game**, with plans to explore **3D, VR, and controller-based games**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Languages:** C#, C++ · C, Python, Java, JavaScript, HTML, CSS, Ren'Py  
+🛠️ **Tools:** Unity, Ren'Py · Django · Windows, Linux  
+🎨 **Interests:** Indie Game Dev · Game Design · Game Art
+
+## 🎮 マイともうします！よろしくお願いします！
+
+👨‍💻 **ハノイ工科大学（HUST）**の **IT Engineering – Japanese Program（ITE6）**で学んでいます。
+
+🎮 **ゲーム開発・インディーゲーム**を中心に活動中。現在は**2Dカジュアルゲーム**を制作しており、今後は **3D・VR・コントローラー向けゲーム**にも挑戦したいと考えています。
+
+💻 **Languages:** C#, C++ · C, Python, Java, JavaScript, HTML, CSS, Ren'Py  
+🛠️ **Tools:** Unity, Ren'Py · Django · Windows, Linux  
+🎨 **Interests:** インディーゲーム開発 · ゲームデザイン · ゲームアート
